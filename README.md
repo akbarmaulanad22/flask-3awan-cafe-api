@@ -69,7 +69,6 @@ Gunakan domain ini di Flutter (menu_service.dart / order_service.dart).
 |--------|-----------------|-----------------------|
 | GET    | `/orders`       | Ambil semua pesanan   |
 | POST   | `/orders`       | Buat pesanan baru     |
-| DELETE | `/orders/<id>`  | Hapus pesanan         |
 
 
 📂 Struktur Folder
